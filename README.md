@@ -1,14 +1,14 @@
-**MyDealz Kommentar-Volltextsuche 🐒 (Tampermonkey Edition)**
+**MyDealz Kommentar-Volltextsuche (Tampermonkey Edition)**
 Dieses Skript rüstet eine extrem praktische Funktion für MyDealz nach: Eine echte Volltextsuche für Kommentare innerhalb eines Deals oder einer Diskussion.  
 Wer MyDealz kennt, weiß: Bei beliebten Deals mit hunderten Antworten dauert es oft ewig, bestimmte Informationen zu finden. Dieses Skript löst das Problem, indem es alle Kommentare ausliest, in einem lokalen Cache zwischenspeichert und blitzschnell durchsuchbar macht.  
 Vorteil der Tampermonkey-Version: Im Gegensatz zur Lesezeichen-Variante ist das Skript fest in deinem Browser integriert und steht dir auf jeder Deal-Seite sofort zur Verfügung, ohne dass du erst ein Lesezeichen anklicken musst.  
 
 **Du suchst die Version ohne Browser-Erweiterung? > Hier geht es zum Repository für die Lesezeichen / Bookmarklet Variante:** https://github.com/Nergico/MyDealz-Kommentarsuche-mit-Lesezeichen  
 
-**🚀 Die 2 Varianten (Wähle deine bevorzugte Version)**  
+** Die 2 Varianten (Wähle deine bevorzugte Version)**  
 Ich biete hier zwei verschiedene Ansätze an. Wähle die Version, die besser zu deinem Workflow passt.  
 
-**🌟 Variante 1: Pro-Suche (Modern & Inline)**  
+**🔹 Variante 1: Pro-Suche (Modern & Inline)**  
 Dies ist die aktuellste und umfangreichste Version. Sie fügt neben der Kommentar-Sortierung einen Button "🔍 Pro-Suche starten" ein. Sobald du darauf klickst, wird die Suche geladen.  
 Besonderheit: Bietet schnelle Klick-Filter (z. B. "Letzte 24h", "1+ Reactions") und eine extrem übersichtliche Mini-Ansicht für gefundene Kommentare.  
 
