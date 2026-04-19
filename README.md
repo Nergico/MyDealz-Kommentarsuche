@@ -1,4 +1,4 @@
-**MyDealz Kommentar-Volltextsuche (Tampermonkey Edition)**
+**MyDealz Kommentar-Volltextsuche (Tampermonkey Edition)**  
 Dieses Skript rüstet eine extrem praktische Funktion für MyDealz nach: Eine echte Volltextsuche für Kommentare innerhalb eines Deals oder einer Diskussion.  
 Wer MyDealz kennt, weiß: Bei beliebten Deals mit hunderten Antworten dauert es oft ewig, bestimmte Informationen zu finden. Dieses Skript löst das Problem, indem es alle Kommentare ausliest, in einem lokalen Cache zwischenspeichert und blitzschnell durchsuchbar macht.  
 Vorteil der Tampermonkey-Version: Im Gegensatz zur Lesezeichen-Variante ist das Skript fest in deinem Browser integriert und steht dir auf jeder Deal-Seite sofort zur Verfügung, ohne dass du erst ein Lesezeichen anklicken musst.  
